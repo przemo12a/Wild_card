@@ -1,0 +1,85 @@
+.karta{
+  height: 300px;
+  width: 225px;
+  background-color: red;
+  position: absolute;
+  left: 600px;
+  top: 200px;
+  color: white;
+  font-size: 12px;
+  font-family: Verdana;
+  padding:10px;
+  border-radius: 17px;
+}
+
+.text1{
+  position: absolute;
+  top: 15px;
+  left: 15px;
+}
+
+.karta1{
+  background-color: white;
+  position: absolute;
+  top: 30px;
+  height: 280px;
+  width: 225px;
+  color: red;
+  font-size: 17px;
+  font-family: Verdana;
+  border-radius: 17px;
+}
+
+.text2{
+  position: absolute;
+  left: 5px;
+  top: 5px;
+}
+
+.karta1>img{
+  height: 150px;
+  width: 225px;
+  position: absolute;
+  top: 50px;
+}
+
+.text3{
+  position: absolute;
+  left: 5px;
+  top: 200px;
+  font-size: 15px;
+
+}
+
+.kulka1{
+  background-color: red;
+  border-radius: 80px;
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  left: 150px;
+
+}
+
+.kulka2{
+  background-color: green;
+  border-radius: 80px;
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 10px;
+  left: 185px;
+
+}
+
+.text4{
+  position: absolute;
+  color: black;
+  left: 5px;
+  top: 250px;
+  font-size: 7px;
+  transform: rotateX(-1);
+  background-image:
+
+}
